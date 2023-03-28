@@ -1,0 +1,7 @@
+Started by timer
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/KIII-Exercise-01
+[KIII-Exercise-01] $ /bin/sh -xe /tmp/jenkins12171401570319614009.sh
++ ls -l
+total 0
+Finished: SUCCESS
