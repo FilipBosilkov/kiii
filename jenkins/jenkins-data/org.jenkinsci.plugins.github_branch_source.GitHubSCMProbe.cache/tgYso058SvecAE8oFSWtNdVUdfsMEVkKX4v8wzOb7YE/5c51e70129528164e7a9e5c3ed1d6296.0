@@ -1,20 +1,17 @@
-https://api.github.com/repos/FilipBosilkov/kiii/contents/?ref=refs%2Fheads%2Fmaster
+https://api.github.com/repos/FilipBosilkov/kiii/contents/Jenkinsfile?ref=8c25d319a7434c2304f0ad0be44495a168465e68
 GET
 2
 Accept: application/vnd.github.v3+json
 Accept-Encoding: gzip
 HTTP/1.1 200 
 28
-content-type: application/json; charset=utf-8
-content-encoding: gzip
-accept-ranges: bytes
-content-length: 378
 server: GitHub.com
-date: Tue, 28 Mar 2023 17:29:26 GMT
+date: Tue, 28 Mar 2023 17:29:36 GMT
+content-type: application/json; charset=utf-8
 cache-control: public, max-age=60, s-maxage=60
 vary: Accept, Accept-Encoding, Accept, X-Requested-With
-etag: W/"fdbe1f2bc367c112e05dfdf2bf5f55134359ffcd"
-last-modified: Tue, 28 Mar 2023 17:07:13 GMT
+etag: W/"31d7f5d7ee71f55766d35ff31a95d20c865687bd"
+last-modified: Tue, 28 Mar 2023 17:27:52 GMT
 x-github-media-type: github.v3; format=json
 x-github-api-version-selected: 2022-11-28
 access-control-expose-headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
@@ -25,14 +22,17 @@ x-content-type-options: nosniff
 x-xss-protection: 0
 referrer-policy: origin-when-cross-origin, strict-origin-when-cross-origin
 content-security-policy: default-src 'none'
+content-encoding: gzip
 x-ratelimit-limit: 60
-x-ratelimit-remaining: 46
-x-ratelimit-reset: 1680026116
+x-ratelimit-remaining: 44
+x-ratelimit-reset: 1680026115
 x-ratelimit-resource: core
-x-ratelimit-used: 14
-x-github-request-id: CD03:6F45:5A3211A:5BB197A:642323F6
-OkHttp-Sent-Millis: 1680024565919
-OkHttp-Received-Millis: 1680024565961
+x-ratelimit-used: 16
+accept-ranges: bytes
+content-length: 667
+x-github-request-id: CD03:6F45:5A33C00:5BB34D6:642323FF
+OkHttp-Sent-Millis: 1680024574788
+OkHttp-Received-Millis: 1680024574968
 
 TLS_AES_128_GCM_SHA256
 3
