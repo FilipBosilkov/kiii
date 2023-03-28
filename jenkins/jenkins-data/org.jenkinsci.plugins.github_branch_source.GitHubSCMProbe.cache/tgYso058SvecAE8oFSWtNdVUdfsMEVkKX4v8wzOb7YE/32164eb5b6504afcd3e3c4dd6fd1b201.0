@@ -1,4 +1,4 @@
-https://api.github.com/repos/FilipBosilkov/kiii
+https://api.github.com/repos/FilipBosilkov/kiii/contents/?ref=refs%2Fheads%2Fmaster
 GET
 2
 Accept: application/vnd.github.v3+json
@@ -10,7 +10,7 @@ date: Tue, 28 Mar 2023 17:22:15 GMT
 content-type: application/json; charset=utf-8
 cache-control: public, max-age=60, s-maxage=60
 vary: Accept, Accept-Encoding, Accept, X-Requested-With
-etag: W/"4177bb036425cd11e763bee81f2b7c47e944f0cb4e3f9c42801d25f74044ecd2"
+etag: W/"10d2208271216c566a69d6329eab0020c6b73c46"
 last-modified: Tue, 28 Mar 2023 17:07:13 GMT
 x-github-media-type: github.v3; format=json
 x-github-api-version-selected: 2022-11-28
@@ -24,15 +24,15 @@ referrer-policy: origin-when-cross-origin, strict-origin-when-cross-origin
 content-security-policy: default-src 'none'
 content-encoding: gzip
 x-ratelimit-limit: 60
-x-ratelimit-remaining: 52
+x-ratelimit-remaining: 50
 x-ratelimit-reset: 1680026115
 x-ratelimit-resource: core
-x-ratelimit-used: 8
+x-ratelimit-used: 10
 accept-ranges: bytes
-content-length: 1198
-x-github-request-id: CC64:134C:60C798E:6248EA9:64232247
-OkHttp-Sent-Millis: 1680024134288
-OkHttp-Received-Millis: 1680024134479
+content-length: 263
+x-github-request-id: CC64:134C:60C7B32:6249056:64232247
+OkHttp-Sent-Millis: 1680024134694
+OkHttp-Received-Millis: 1680024134914
 
 TLS_AES_128_GCM_SHA256
 3
